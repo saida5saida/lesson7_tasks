@@ -1,0 +1,12 @@
+h1::before {
+    content: 'Hello content';
+    font-size: 15px;
+    background-color: red;
+    color: white;
+}
+h1::after {
+    content: 'Hello content';
+    font-size: 15px;
+    background-color: red;
+    color: white;
+}
